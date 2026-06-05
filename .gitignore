@@ -220,3 +220,4 @@ __marimo__/
 
 # Local Environments
 .env.example
+.DS_Store
